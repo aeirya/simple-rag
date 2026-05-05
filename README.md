@@ -1,2 +1,2 @@
 # simple-rag
-Final project for NLP Applications II Course
+NLP Applications II Course Assignment
