@@ -7,3 +7,4 @@ langchain_core
 langchain_ollama
 langchain_classic
 langchain_community
+rank_bm25
