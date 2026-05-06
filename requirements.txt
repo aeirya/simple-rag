@@ -1,0 +1,9 @@
+markdownify
+scrapling[fetchers]
+langchain
+datasets
+requests
+langchain_core
+langchain_ollama
+langchain_classic
+langchain_community
