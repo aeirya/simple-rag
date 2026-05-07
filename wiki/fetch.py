@@ -3,7 +3,7 @@ import subprocess
 from pathlib import Path
 from urllib.parse import urlparse, unquote
 import requests
-from .clean import clean_wiki_md, extract_section, clean_wiki_text
+from wiki.clean import clean_wiki_md, extract_section, clean_wiki_text
 
 
 def split_title_section(title: str) -> tuple[str, str | None]:

@@ -10,14 +10,24 @@ wiki_pages = {
         "Luri language",
         "Tat language (Caucasus)",
         "Persian language",
+        "Avestan",
+        "Middle Persian",
+        "Iranian_languages#Old_Iranian",
+        'Gilaki language',
     ],
 
-    "linguistics": [
+    "language_family": [
         "Iranian languages",
         "Category:Northwestern Iranian languages",
         "Caspian languages",
         "Indo-Iranian languages",
         "Indo-European languages",
+        "Proto-Indo-European language",
+        "Western Iranian languages",
+        "Eastern Iranian languages",
+    ],
+
+    "linguistics": [
         "Language family",
         "Dialect continuum",
         "Morphology (linguistics)",
@@ -25,13 +35,7 @@ wiki_pages = {
         "Syntax",
         "Persian alphabet",
         "Languages of Iran",
-        "Middle Persian",
-        "Proto-Indo-European language",
         "Languages of the Caucasus",
-        "Western Iranian languages",
-        "Eastern Iranian languages",
-        "Iranian_languages#Old_Iranian",
-        "Avestan",
         "Language contact",
     ],
 
